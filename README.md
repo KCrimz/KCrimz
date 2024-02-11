@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
+<h2>Certifications</h2>
+
+- [Google Cyber Security Professional](https://www.credly.com/badges/9f9fc0e5-81c1-4f16-9b6b-d3c581287014/linked_in_profile)
+- [Network Traffic Analysis With TCPDump](https://www.coursera.org/account/accomplishments/verify/YTXKJFYD2C3J)
 
 <h2>📺 Popular YouTube Videos</h2>
 
