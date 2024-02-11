@@ -1,6 +1,6 @@
 <h1>Whatup whatup, I'm Kyle also "Crimz" in some spaces! <br/><a href="https://github.com/KCrimz">Tinkerer</a>, <a href="https://www.linkedin.com/in/kylecmckenna/">IT Enjoyer</a>, <a href="https://www.youtube.com/channel/UCt_9NHaVUBmBaYA-zkcEtVg">Gaming YouTuber</a></h1>
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>IT Projects:</h2>
 
 <h2>Certifications</h2>
 
