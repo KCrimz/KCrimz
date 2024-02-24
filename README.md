@@ -3,6 +3,7 @@
 <h2>IT Projects:</h2>
 
 - [Acive Directory](https://github.com/KCrimz/ActiveDirectoryProject)
+- [Network Learning](https://github.com/KCrimz/Networking-Learning)
 
 <h2>Certifications</h2>
 
