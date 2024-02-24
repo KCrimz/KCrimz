@@ -13,7 +13,6 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Computer Optimization for Gaming Specifically Black Desert](https://www.youtube.com/watch?v=H-sb1SMQg1o)
 - [Guide for Mechanics and how to In a certain area](https://www.youtube.com/watch?v=utSiYqpR1sk)
 - [Review and analysis of my Fav Class](https://www.youtube.com/watch?v=bIkagedTsiQ)
 
