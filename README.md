@@ -4,7 +4,8 @@
 
 - [Acive Directory](https://github.com/KCrimz/ActiveDirectoryProject)
 - [Network Learning](https://github.com/KCrimz/Networking-Learning)
-
+- [SIEM Azure Project](https://github.com/KCrimz/SIEM-Azure-Project)
+- 
 <h2>Certifications</h2>
 
 - [Google Cyber Security Professional](https://www.credly.com/badges/9f9fc0e5-81c1-4f16-9b6b-d3c581287014/linked_in_profile)
