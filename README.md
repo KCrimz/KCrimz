@@ -6,7 +6,7 @@
 - [Network Learning](https://github.com/KCrimz/Networking-Learning)
 - [SIEM Azure Project](https://github.com/KCrimz/SIEM-Azure-Project)
 - [Nessus Vulnerability and Remediation Project](https://github.com/KCrimz/Vulnerability-Management-Project)
-- [mySQL database learning Project Project](https://github.com/KCrimz/SQL-Database-Project)
+- [mySQL database learning Project](https://github.com/KCrimz/SQL-Database-Project)
 
 <h2>Certifications</h2>
 
