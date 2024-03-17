@@ -3,10 +3,13 @@
 <h2>IT Projects:</h2>
 
 - [Acive Directory](https://github.com/KCrimz/ActiveDirectoryProject)
-- [Network Learning](https://github.com/KCrimz/Networking-Learning)
 - [SIEM Azure Project](https://github.com/KCrimz/SIEM-Azure-Project)
 - [Nessus Vulnerability and Remediation Project](https://github.com/KCrimz/Vulnerability-Management-Project)
-- [mySQL database Project](https://github.com/KCrimz/SQL-Database-Project)
+
+<h2>Learning:</h2>
+
+- [Network Learning](https://github.com/KCrimz/Networking-Learning)
+- [mySQL database Learning](https://github.com/KCrimz/SQL-Database-Project)
 
 <h2>Certifications</h2>
 
