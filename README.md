@@ -2,6 +2,7 @@
 
 <h2>IT Projects:</h2>
 
+- [Data analysis tableau](https://github.com/KCrimz/TableauProject)
 - [Python directory auto sort](https://github.com/KCrimz/Python-Directory-Auto-Sort) 
 - [Acive Directory](https://github.com/KCrimz/ActiveDirectoryProject)
 - [SIEM Azure Project](https://github.com/KCrimz/SIEM-Azure-Project)
