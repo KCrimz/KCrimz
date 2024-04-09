@@ -1,12 +1,17 @@
 <h1>Whatup whatup, I'm Crimz also "Kyle" in some spaces! <br/><a href="https://github.com/KCrimz">Tinkerer</a>, <a href="https://www.linkedin.com/in/kylecmckenna/">IT Enjoyer</a>, <a href="https://www.youtube.com/channel/UCt_9NHaVUBmBaYA-zkcEtVg">Gaming YouTuber</a></h1>
 
-<h2>IT Projects:</h2>
+<h2>IT Projects Data Analysis:</h2>
 
 - [Data analysis tableau](https://github.com/KCrimz/TableauProject)
+
+
+<h2>Alternate IT Projects:</h2>
+
 - [Python directory auto sort](https://github.com/KCrimz/Python-Directory-Auto-Sort) 
 - [Acive Directory](https://github.com/KCrimz/ActiveDirectoryProject)
 - [SIEM Azure Project](https://github.com/KCrimz/SIEM-Azure-Project)
 - [Nessus Vulnerability and Remediation Project](https://github.com/KCrimz/Vulnerability-Management-Project)
+
 
 <h2>Learning:</h2>
 
